@@ -2,7 +2,7 @@
 /*
 Plugin Name: Woobizz Hook 23 
 Plugin URI: http://woobizz.com
-Description: Remove billing company or any other field on checkout page
+Description: Remove any billing field on checkout page
 Author: Woobizz
 Author URI: http://woobizz.com
 Version: 1.0.0
